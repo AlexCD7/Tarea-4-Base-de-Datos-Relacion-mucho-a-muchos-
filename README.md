@@ -2,3 +2,5 @@
 Alex Calispa
 Creación de 3 tablas
 Relación de muchos a muchos
+USO DEL INNER JOIN
+USO DE VISTA
